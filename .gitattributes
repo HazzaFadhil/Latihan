@@ -1,5 +1,2 @@
-# Mengabaikan file tertentu dari deteksi bahasa
-nama-file-anda.hack linguist-detectable=false
-
-# Atau memaksa ekstensi tertentu dianggap sebagai bahasa lain (misal: PHP)
-*.hack linguist-language=PHP
+*.php linguist-language=PHP
+asset/** linguist-vendored
