@@ -15,7 +15,7 @@
             <h3>For Business</h3>
             <h3>wakwaw</h3>
             <h3>wakwaw</h3>
-            <img src="english.png" alt="bahasa">
+            <img src="asset/english.png" alt="bahasa">
         </nav>
     </header>
 
