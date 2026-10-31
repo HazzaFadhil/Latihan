@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -22,7 +21,7 @@
                 <form id="form" action="upload.php" method="POST" enctype="multipart/form-data">
                     <label for="file_upload">Pilih File</label> <br>
                     <input type="file" name="file_upload" id="file_upload" required> <br> <br>
-                    <input type="submit" name="submit" value="Upload File"> 
+                    <input type="submit" name="submit" value="Upload File">
                 </form>
             </fieldset>
         </section>
